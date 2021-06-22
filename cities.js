@@ -11,4 +11,10 @@ CITIES =
         {name: 'Leipzig', latitude: 51.333333, longitude: 12.383333, radius: 3, fillKey: 'city'},
         {name: 'Aachen', latitude: 50.775556, longitude: 6.083611, radius: 3, fillKey: 'city'},
         {name: 'Moscow', latitude: 55.755833, longitude: 37.617222, radius: 3, fillKey: 'city'},
+        {name: 'Paris', latitude: 48.856613, longitude: 2.352222, radius: 3, fillKey: 'city'},
+        {name: 'Mexico', latitude: 23, longitude: -102, radius: 3, fillKey: 'city'},
+        {name: 'La Gomera', latitude: 28.116667, longitude: -17.216667, radius: 3, fillKey: 'city'},
+        {name: 'Shanghai', latitude: 31.228611, longitude: 121.474722, radius: 3, fillKey: 'city'},
+        {name: 'Beijing', latitude: 39.906667, longitude: 116.3975, radius: 3, fillKey: 'city'},
+        {name: 'Nanjing', latitude: 32.0614, longitude: 118.7636, radius: 3, fillKey: 'city'},
     ]
