@@ -17,4 +17,5 @@ CITIES =
         {name: 'Shanghai', latitude: 31.228611, longitude: 121.474722, radius: 3, fillKey: 'city'},
         {name: 'Beijing', latitude: 39.906667, longitude: 116.3975, radius: 3, fillKey: 'city'},
         {name: 'Nanjing', latitude: 32.0614, longitude: 118.7636, radius: 3, fillKey: 'city'},
+        {name: 'Helsinki', latitude: 60.170833, longitude: 24.9375, radius: 3, fillKey: 'city'},
     ]

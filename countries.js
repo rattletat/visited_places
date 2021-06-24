@@ -5,7 +5,6 @@ COUNTRIES =
     CZE: {fillKey: 'visited'},
     RUS: {fillKey: 'visited'},
     CHN: {fillKey: 'visited'},
-    USA: {fillKey: 'visited'},
     MEX: {fillKey: 'visited'},
     FRA: {fillKey: 'visited'},
     ESP: {fillKey: 'visited'},
