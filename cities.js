@@ -18,4 +18,6 @@ CITIES =
         {name: 'Beijing', latitude: 39.906667, longitude: 116.3975, radius: 3, fillKey: 'city'},
         {name: 'Nanjing', latitude: 32.0614, longitude: 118.7636, radius: 3, fillKey: 'city'},
         {name: 'Helsinki', latitude: 60.170833, longitude: 24.9375, radius: 3, fillKey: 'city'},
+        {name: 'Cologne', latitude: 6.952778, longitude: 50.936389, radius: 3, fillKey: 'city'},
+        {name: 'Garching', latitude: 48.25, longitude: 11.65, radius: 3, fillKey: 'city'},
     ]
