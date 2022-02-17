@@ -164,4 +164,18 @@ CITIES = [
     radius: 3,
     fillKey: "city",
   },
+  {
+    name: "Huangshan",
+    latitude: 30.125,
+    longitude: 118.166667,
+    radius: 3,
+    fillKey: "city",
+  },
+  {
+    name: "Dengfeng",
+    latitude: 34.455278,
+    longitude: 113.025278,
+    radius: 3,
+    fillKey: "city",
+  },
 ];
