@@ -1,4 +1,4 @@
-CITIES = [
+LOCATIONS = [
   // For reference:
   //{name: 'Khao Phing Kan', latitude: 8.2745, longitude: 98.5012, radius: 3, fillKey: 'city', date: '1974-12'},
 

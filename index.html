@@ -11,7 +11,7 @@
     <div id="map1" style="position: relative;"></div>
 
     <script src="countries.js"></script>
-    <script src="cities.js"></script>
+    <script src="locations.js"></script>
 
     <script>
 
@@ -48,7 +48,7 @@
         data: COUNTRIES
     });
 
-    map.bubbles(CITIES);
+    map.bubbles(LOCATIONS);
 
     window.addEventListener('resize', function() {
         map.resize();
