@@ -150,4 +150,11 @@ CITIES = [
     radius: 3,
     fillKey: "city",
   },
+  {
+    name: "Zürich",
+    latitude: 47.374444,
+    longitude: 8.541111,
+    radius: 3,
+    fillKey: "city",
+  },
 ];

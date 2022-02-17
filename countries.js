@@ -12,4 +12,6 @@ COUNTRIES = {
   NLD: { fillKey: "visited" },
   FIN: { fillKey: "visited" },
   PRT: { fillKey: "visited" },
+  TUR: { fillKey: "visited" },
+  CHE: { fillKey: "visited" },
 };
