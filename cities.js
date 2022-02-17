@@ -157,4 +157,11 @@ CITIES = [
     radius: 3,
     fillKey: "city",
   },
+  {
+    name: "Hangzhou",
+    latitude: 30.267,
+    longitude: 120.153,
+    radius: 3,
+    fillKey: "city",
+  },
 ];
